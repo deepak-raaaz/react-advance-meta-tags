@@ -1,13 +1,3 @@
-<!-- # react-advance-meta-tags
-
-A React component for adding advanced meta tags for SEO and social media sharing (Open Graph, Twitter Cards, Facebook, and Google SEO tags).
-
-## Installation
-
-```bash
-npm install react-advance-meta-tags
- -->
-
 [![npm version](https://img.shields.io/npm/v/react-advance-meta-tags)](https://www.npmjs.com/package/react-advance-meta-tags)
 [![npm downloads](https://img.shields.io/npm/dm/react-advance-meta-tags)](https://www.npmjs.com/package/react-advance-meta-tags)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
