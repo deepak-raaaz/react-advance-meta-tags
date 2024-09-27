@@ -257,14 +257,22 @@ Sets robots meta tags to control how search engines interact with your site. It 
 **Example**
 
 ```jsx
-<SocialMetaTags
-  ogType="article"
-  title="Understanding Meta Tags in React"
-  description="Learn how to manage meta tags effectively in your React applications."
-  image="https://example.com/meta-tags.jpg"
-  url="https://example.com/meta-tags-react"
-  twitterCard="summary"
-/>
+    <SocialMetaTags
+        ogType="article"
+        ogTitle="Understanding React Hooks"
+        ogDescription="A comprehensive guide to understanding and using React Hooks."
+        ogUrl="https://yourwebsite.com/blog/understanding-react-hooks"
+        ogImage="https://yourwebsite.com/images/react-hooks.jpg"
+        ogImageAlt="React Hooks Illustration"
+        ogSiteName="Your Website"
+        twitterTitle="Understanding React Hooks"
+        twitterDescription="A comprehensive guide to understanding and using React Hooks."
+        twitterImage="https://yourwebsite.com/images/react-hooks.jpg"
+        twitterImageAlt="React Hooks Illustration"
+        twitterSite="@yourtwitterhandle"
+        ogProductPriceAmount="29.99"
+        ogProductPriceCurrency="USD"
+      />
 ```
 **Props**
 

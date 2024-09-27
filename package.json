@@ -1,12 +1,22 @@
 {
   "name": "react-advance-meta-tags",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.5",
+  "description": "A React component library for managing SEO meta tags.",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "components"
+  ],
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "seo",
+    "meta tags",
+    "open graph",
+    "twitter cards"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
